@@ -7,7 +7,7 @@ namespace SASM_MAIN {
 		public static class Compiler {
 			public static string CompileFVM(string[] code) {
 				var output = "";
-				for (var li = 0; i < code.Split('\n').Length; i++) {
+				for (var li = 0; i < code.Length; li++) {
 					var ln = code[li];
 					for (var tok = 0; tok < ln.Split(' ').Length; tok++) {
 						//token declaring
@@ -54,7 +54,7 @@ namespace SASM_MAIN {
 				"quit"
 			};
 			
-			SASM.Compiler.compile(code);
+			SASM.Compiler.CompileFVM(code);
 		}
 	}
 }
