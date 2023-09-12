@@ -1,0 +1,14 @@
+/home/pratyush/SASM/bin/Debug/net7.0/SASM
+/home/pratyush/SASM/bin/Debug/net7.0/SASM.deps.json
+/home/pratyush/SASM/bin/Debug/net7.0/SASM.runtimeconfig.json
+/home/pratyush/SASM/bin/Debug/net7.0/SASM.dll
+/home/pratyush/SASM/bin/Debug/net7.0/SASM.pdb
+/home/pratyush/SASM/obj/Debug/net7.0/SASM.GeneratedMSBuildEditorConfig.editorconfig
+/home/pratyush/SASM/obj/Debug/net7.0/SASM.AssemblyInfoInputs.cache
+/home/pratyush/SASM/obj/Debug/net7.0/SASM.AssemblyInfo.cs
+/home/pratyush/SASM/obj/Debug/net7.0/SASM.csproj.CoreCompileInputs.cache
+/home/pratyush/SASM/obj/Debug/net7.0/SASM.dll
+/home/pratyush/SASM/obj/Debug/net7.0/refint/SASM.dll
+/home/pratyush/SASM/obj/Debug/net7.0/SASM.pdb
+/home/pratyush/SASM/obj/Debug/net7.0/SASM.genruntimeconfig.cache
+/home/pratyush/SASM/obj/Debug/net7.0/ref/SASM.dll
